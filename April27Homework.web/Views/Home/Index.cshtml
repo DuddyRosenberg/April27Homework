@@ -1,0 +1,16 @@
+﻿@model List<Image>
+
+<a href="/home/addImage" class="btn btn-primary">Add Image</a>
+<div class="row">
+    <div class="col-md-8 offset-2">
+        @foreach (var image in Model)
+        {
+            <div style="margin-bottom:20px;text-align:center">
+                <a href="/home/image?id=@image.ID"><h4>@image.Title</h4></a>
+                <a href="/home/image?id=@image.ID">
+                    <img style="width:400px" src="@image.Address" />
+                </a>
+            </div>
+        }
+    </div>
+</div>

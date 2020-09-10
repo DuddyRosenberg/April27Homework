@@ -1,0 +1,12 @@
+C:\Users\david\source\repos\April27Homework\April27Homework.data\bin\Debug\netcoreapp3.1\April27Homework.data.deps.json
+C:\Users\david\source\repos\April27Homework\April27Homework.data\bin\Debug\netcoreapp3.1\April27Homework.data.dll
+C:\Users\david\source\repos\April27Homework\April27Homework.data\obj\Debug\netcoreapp3.1\April27Homework.data.csprojAssemblyReference.cache
+C:\Users\david\source\repos\April27Homework\April27Homework.data\obj\Debug\netcoreapp3.1\April27Homework.data.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\April27Homework\April27Homework.data\obj\Debug\netcoreapp3.1\April27Homework.data.AssemblyInfo.cs
+C:\Users\david\source\repos\April27Homework\April27Homework.data\bin\Debug\netcoreapp3.1\April27Homework.data.pdb
+C:\Users\david\source\repos\April27Homework\April27Homework.data\obj\Debug\netcoreapp3.1\April27Homework.data.dll
+C:\Users\david\source\repos\April27Homework\April27Homework.data\obj\Debug\netcoreapp3.1\April27Homework.data.pdb
+C:\Users\david\source\repos\April27Homework\April27Homework.data\bin\Debug\netcoreapp3.1\April27Homework.data.runtimeconfig.json
+C:\Users\david\source\repos\April27Homework\April27Homework.data\bin\Debug\netcoreapp3.1\April27Homework.data.runtimeconfig.dev.json
+C:\Users\david\source\repos\April27Homework\April27Homework.data\obj\Debug\netcoreapp3.1\April27Homework.data.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\April27Homework\April27Homework.data\obj\Debug\netcoreapp3.1\April27Homework.data.genruntimeconfig.cache
